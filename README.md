@@ -2,9 +2,9 @@
 
 ## 参考
 
-1. KVstorageBaseRaft：  https://github.com/youngyangyang04/KVstorageBaseRaft-cpp
+1.KVstorageBaseRaft：  https://github.com/youngyangyang04/KVstorageBaseRaft-cpp
 
-2. MIT6.824学习
+2.MIT6.824学习
 
 3.施磊 分布式网络通信 mprpc    基于muduo库 和 protobuf(protocol buffers) 的 RPC通信
 
