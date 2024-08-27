@@ -1,6 +1,7 @@
 # 基于Raft的k-v存储数据库 （基于Raft一致性算法的分布式键值存储数据库）
 
 ## 参考
+
 1. KVstorageBaseRaft：  https://github.com/youngyangyang04/KVstorageBaseRaft-cpp
 
 2. MIT6.824学习
